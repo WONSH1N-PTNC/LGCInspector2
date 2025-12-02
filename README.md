@@ -12,3 +12,5 @@ This project was created to automate the process of sorting image data and reduc
 - Expand class labels
 - Improve model accuracy
 - Add GUI for easier usage
+- 
+![GUI Screenshot](./images/screenshot.png)
