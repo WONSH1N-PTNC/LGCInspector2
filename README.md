@@ -13,4 +13,4 @@ This project was created to automate the process of sorting image data and reduc
 - Improve model accuracy
 - Add GUI for easier usage
 - 
-![GUI Screenshot](.LGCInspector2/images/screenshot.png)
+![GUI Screenshot](./LGCInspector2/images/screenshot.png)
